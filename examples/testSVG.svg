@@ -1,1 +1,1 @@
-<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg"><g><circle cx="30" cy="45" r="30" fill="light blue"/><text x="30" y="50" text-anchor="middle" fill="pink" >UEI</text></g></svg>
+<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg"><g><polygon points="100,10 190,190 10,190" fill="red"/><text x="30" y="50" text-anchor="middle" fill="blue" >TES</text></g></svg>
