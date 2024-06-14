@@ -20,7 +20,7 @@ function writeToFile(file, data) {
 
   //adding user text
   var text = data.logo;
-  svg += `<text x="30" y="50" text-anchor="middle"  font-size="20" fill="${
+  svg += `<text x="145" y="115" text-anchor="middle"  font-size="50" fill="${
     data.logoColor
   }" >${text.toUpperCase()}</text>`;
   //close the group
